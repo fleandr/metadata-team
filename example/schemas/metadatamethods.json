@@ -65,6 +65,7 @@
             "cellType": null,
             "cellLine": null,
             "geocode": null,
+            "sampleType": "frozen",
             "organismPart": { 
                 "ontologySource": "Uberon",
                 "id": "UBERON_0013755",

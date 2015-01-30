@@ -18,7 +18,8 @@
         "end": "189897279",
         "referenceBases": "TGAGTTCTAAGTTAAATATAATCAAGGAATTTCCCTGTCTTTGCTATTTGAGATTGTGACCACAACAGGCGGTTGGCTGAAAGGGAAACTGAAGGGCGGGGAGGGAGGGAAATAGATGAAAAAACAAAACAAAACAAAACTTCCCTAAGCAGCTCTACAAAACATTTTAGCCCCAGAAAT...",
         "alternateBases": null, 
-        "zygosity": 2
+        "zygosity": 2,
+        "type": "SO:0001791"
     },
 
     "Match": {
@@ -46,7 +47,8 @@
             "end": "189897279",
             "referenceBases": "TGAGTTCTAAGTTAAATATAATCAAGGAATTTCCCTGTCTTTGCTATTTGAGATTGTGACCACAACAGGCGGTTGGCTGAAAGGGAAACTGAAGGGCGGGGAGGGAGGGAAATAGATGAAAAAACAAAACAAAACAAAACTTCCCTAAGCAGCTCTACAAAACATTTTAGCCCCAGAAAT...",
             "alternateBases": null, 
-            "zygosity": 2
+            "zygosity": 2,
+            "type": "SO:0001791"
         }]
     }, 
 
@@ -77,13 +79,15 @@
                 "end": "189897279",
                 "referenceBases": "TGAGTTCTAAGTTAAATATAATCAAGGAATTTCCCTGTCTTTGCTATTTGAGATTGTGACCACAACAGGCGGTTGGCTGAAAGGGAAACTGAAGGGCGGGGAGGGAGGGAAATAGATGAAAAAACAAAACAAAACAAAACTTCCCTAAGCAGCTCTACAAAACATTTTAGCCCCAGAAAT...",
                 "alternateBases": null, 
-                "zygosity": 2
+                "zygosity": 2,
+                "type": "SO:0001791"
             }]
         }
     },
 
     "MatchResponse": {
         "queryId": "d552f0b5-cfd8-4622-b6cf-bcd78907e50e",
+        "responseType": "inline",
         "results": [{
             "id": "487a8828-530d-4dfd-974b-3ea730241680",
             "label": "some_label",
@@ -109,7 +113,8 @@
                 "end": "189897279",
                 "referenceBases": "TGAGTTCTAAGTTAAATATAATCAAGGAATTTCCCTGTCTTTGCTATTTGAGATTGTGACCACAACAGGCGGTTGGCTGAAAGGGAAACTGAAGGGCGGGGAGGGAGGGAAATAGATGAAAAAACAAAACAAAACAAAACTTCCCTAAGCAGCTCTACAAAACATTTTAGCCCCAGAAAT...",
                 "alternateBases": null, 
-                "zygosity": 2
+                "zygosity": 2,
+                "type": "SO:0001791"
             }]
         }]
     },
@@ -141,7 +146,8 @@
                 "end": "189897279",
                 "referenceBases": "TGAGTTCTAAGTTAAATATAATCAAGGAATTTCCCTGTCTTTGCTATTTGAGATTGTGACCACAACAGGCGGTTGGCTGAAAGGGAAACTGAAGGGCGGGGAGGGAGGGAAATAGATGAAAAAACAAAACAAAACAAAACTTCCCTAAGCAGCTCTACAAAACATTTTAGCCCCAGAAAT...",
                 "alternateBases": null, 
-                "zygosity": 2
+                "zygosity": 2,
+                "type": "SO:0001791"
             }]
         }]
     },
@@ -174,7 +180,8 @@
                     "end": "189897279",
                     "referenceBases": "TGAGTTCTAAGTTAAATATAATCAAGGAATTTCCCTGTCTTTGCTATTTGAGATTGTGACCACAACAGGCGGTTGGCTGAAAGGGAAACTGAAGGGCGGGGAGGGAGGGAAATAGATGAAAAAACAAAACAAAACAAAACTTCCCTAAGCAGCTCTACAAAACATTTTAGCCCCAGAAAT...",
                     "alternateBases": null, 
-                    "zygosity": 2
+                    "zygosity": 2,
+                    "type": "SO:0001791"
                 }]
             }]
         }]
